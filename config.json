@@ -1,0 +1,26 @@
+{
+  "name": "Colin Stephenson",
+  "job": "Weber",
+  "github": "colinjeremiahbernard",
+  "playlists": {
+    "jogos": [
+       {
+      "title": "algum titulo",
+      "url": "url",
+      "thumb": "thumbnail do video"
+    },
+    {
+      "title": "video 02, algum titulo",
+      "url": "url",
+      "thumb": "thumbnail do video"
+    }
+ ],
+ "front-end": [
+  {
+ "title": "algum titulo",
+ "url": "url",
+ "thumb": "thumbnail do video"
+}
+]
+  }
+}
